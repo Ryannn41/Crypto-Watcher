@@ -14,6 +14,7 @@ The website is linked to the Coingecko API, a widely used data source for crypto
 » React JS <br>
 » React Router <br>
 » Restful APIs (Coingecko API) <br>
+» Node JS <br>
 » Material Icons <br>
 » Zustand <br>
 » Axios <br>
