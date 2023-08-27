@@ -26,7 +26,8 @@ The website is linked to the Coingecko API, a widely used data source for crypto
 <br>
 <h3 align='center'>Home Page</h3>
 
-![image](https://github.com/Ryannn41/Crypto-Watcher/assets/69830650/b8d6b29b-c4f3-485b-a917-fa52a7ed9428)
+![image](https://github.com/Ryannn41/Crypto-Watcher/assets/69830650/a2389e1f-3efc-4513-94ef-8b052b7a42f2)
+
 
 
 <br><br>
